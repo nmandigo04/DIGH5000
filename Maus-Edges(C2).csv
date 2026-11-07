@@ -1,0 +1,12 @@
+Source,Target,Weight
+Art,Vladek,18
+Vladek,Anja,40
+Vladek,Mr.Zylberberg,15
+Vladek,Mrs.Zylberberg,8
+Mr.Zylberberg,Mrs.Zylberberg,7
+Richieu,Vladek,6
+Richieu,Anja,6
+Richieu,Mr.Zylberberg,1
+Richieu,Mrs.Zylberberg,1
+Anja,Mr.Zylberberg,11
+Anja,Mrs.Zlyberberg,5
