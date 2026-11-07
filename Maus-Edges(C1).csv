@@ -1,2 +1,6 @@
 Source,Target,Weight
-Art,Vladek,2
+Art,Vladek,18
+Art,Mala,3
+Vladek,Mala,3
+Vladek,Anja,22
+Vladek,Lucia,15
