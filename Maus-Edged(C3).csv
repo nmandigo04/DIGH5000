@@ -1,1 +1,12 @@
-Id,
+Source,Target,Weight
+Art,Vladek,45
+Art,Mala,12
+Vladek,Mala,8
+Mr.Spiegelman,Vladek,10
+Rabbi,Vladek,11
+Orbach,Vladek,2
+Mrs.Spiegelman,Vladek,5
+Mrs.Spiegelman,Mr.Spiegelman,5
+Anja,Vladek,3
+Richieu,Vladek,4
+Anja,Richieu,2
