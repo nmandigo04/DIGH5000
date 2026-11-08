@@ -1,0 +1,13 @@
+Souce,Target,Weight
+Art,Vladek,50
+Art,Mala,36
+Mala,Vladek,17
+Vladek,Anja,80
+Mrs.Motonowa,Vladek,36
+Mrs.Motonowa,Anja,25
+Mrs.Kawka,Vladek,5
+Mrs.Kawka,Anja,2
+Mr.Madelbaum,Vladek,8
+Meinka,Vladek,8
+Miloch,Vladek,5
+Miloch,Meinka,1
